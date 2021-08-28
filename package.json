@@ -14,7 +14,15 @@
   "author": "slizer98 <erick.m.villa.r@gmail.com>",
   "license": "MIT",
   "bin": {
-    "random-msg": "./bin/global.js"
+    "random-msg": "bin/global.js"
   },
-  "preferGlobal": true
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slizer98/paqueteNPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/slizer98/paqueteNPM/issues"
+  },
+  "homepage": "https://github.com/slizer98/paqueteNPM#readme"
 }
